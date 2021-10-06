@@ -7,7 +7,7 @@ The visits table (server logs with data on website visits):
 - *Start Ts* — session start date and time
 - *End Ts* — session end date and time
 - *Source Id* — identifier of the ad source the user came from
-- 
+
 All dates in this table are in YYYY-MM-DD format.
 
 The orders table (data on orders):
@@ -37,23 +37,23 @@ Find out :
 
 ## Libraries used:
 
-pandas
+- pandas
 
-matplotlib.pyplot
+- matplotlib.pyplot
 
-seaborn
+- seaborn
 
-plotly
+- plotly
 
-scipy
+- scipy
 
-math
+- math
 
-datetime
+- datetime
 
-re
+- re
 
-numpy
+- numpy
 
 ## [Project](project_2_KarinLevin.ipynb)
 

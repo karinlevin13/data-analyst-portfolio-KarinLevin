@@ -8,12 +8,15 @@ Each log entry is a user action or an event.
 
 ## Goal:
 
-Find out which set of fonts produces better results;check whether the difference between the groups is statistically significant
+Find out :
+- How people use the product
+- When they start to buy
+- How much money each customer brings
+- When they pay off
 
 ## Libraries used:
 
 pandas
-
 matplotlib.pyplot
 seaborn
 plotly
@@ -21,5 +24,6 @@ scipy
 math
 datetime
 re
+numpy
 
-## [Project](project_1_KarinLevin.ipynb)
+## [Project](project_3_KarinLevin.ipynb)

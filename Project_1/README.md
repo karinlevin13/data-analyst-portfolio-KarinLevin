@@ -22,4 +22,4 @@ math
 datetime
 re
 
-## [Project] (project_1_KarinLevin.ipynb)
+## [Project](project_1_KarinLevin.ipynb)

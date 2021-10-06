@@ -13,13 +13,22 @@ Find out which set of fonts produces better results;check whether the difference
 ## Libraries used:
 
 pandas
+
 matplotlib.pyplot
+
 seaborn
+
 plotly
+
 scipy
+
 math
+
 datetime
+
 re
+
 numpy
+
 
 ## [Project](project_1_KarinLevin.ipynb)

@@ -38,13 +38,21 @@ Find out :
 ## Libraries used:
 
 pandas
+
 matplotlib.pyplot
+
 seaborn
+
 plotly
+
 scipy
+
 math
+
 datetime
+
 re
+
 numpy
 
 ## [Project](project_2_KarinLevin.ipynb)
